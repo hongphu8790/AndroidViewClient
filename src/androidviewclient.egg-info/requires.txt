@@ -1,5 +1,5 @@
-setuptools
-requests
-numpy
+culebratester-client>=2.0.6
 matplotlib
-culebratester-client
+numpy==1.23.0
+requests
+setuptools

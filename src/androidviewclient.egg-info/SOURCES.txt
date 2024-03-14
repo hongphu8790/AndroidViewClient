@@ -1,3 +1,4 @@
+LICENSE
 README.md
 setup.py
 src/androidviewclient.egg-info/PKG-INFO
@@ -25,10 +26,14 @@ src/com/dtmilano/android/uiautomator/__init__.py
 src/com/dtmilano/android/uiautomator/uiautomatorhelper.py
 src/share/__init__.py
 src/share/pixmaps/__init__.py
+src/share/pixmaps/culebra.png
 src/share/pixmaps/plugins/__init__.py
 src/share/pixmaps/plugins/android/__init__.py
 src/share/pixmaps/plugins/android/lib/__init__.py
 src/share/pixmaps/plugins/android/lib/device-art-resources/__init__.py
 src/share/pixmaps/plugins/android/lib/device-art-resources/samsung_s4/__init__.py
+src/share/pixmaps/plugins/android/lib/device-art-resources/samsung_s4/port_back.png
+src/share/pixmaps/plugins/android/lib/device-art-resources/samsung_s4/port_fore.png
+src/share/pixmaps/plugins/android/lib/device-art-resources/samsung_s4/port_shadow.png
 tools/culebra
 tools/dump
